@@ -1,0 +1,17 @@
+.convert-card {
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  background-color: whitesmoke;
+  padding: 40px 20px;
+  border-radius: 10px;
+  max-width: 300px;
+  input {
+    width: 100%;
+  }
+  hr {
+    width: 100%;
+  }
+}
+

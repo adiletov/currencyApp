@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  padding: 0;
+
+}
+
+* {
+  box-sizing: border-box;
+  font-family: inherit;
+  font-size: inherit;
+  line-height: inherit;
+}
+
+.container {
+  max-width: 1280px;
+  margin: 0 auto;
+}
+
+.active-link {
+  color: darkgreen!important;
+  text-decoration: underline!important;
+}
